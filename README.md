@@ -7,6 +7,7 @@
 - [网络与地址](categories/network-ip.md)
 - [开发者工具](categories/developer-tools.md)
 - [AI 与模型评测](categories/ai-benchmarks.md)
+- [礼品卡与数字商品](categories/digital-goods.md)
 - [GitHub 项目](categories/github-projects.md)
 
 ## 收录原则
